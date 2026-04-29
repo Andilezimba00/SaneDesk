@@ -1,5 +1,13 @@
-
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/df2c8b63-a2db-425d-9d91-639e31a5a007" />
 sanedesk 3
 
 SaneDesk is the first workspace designed specifically for the modern freelancer who values both professional success and mental clarity. By integrating powerful project management and automated invoicing with built-in meditation and journaling tools, SaneDesk eliminates the stress of switching between multiple apps to manage your life and work. Track your deadlines and manage client payments in the same calm environment where you start your morning mindfulness practice. Whether you are scaling your business or just trying to find more balance in your daily routine, SaneDesk provides the structure you need to stay productive and the space you need to stay sane.
+
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/136b11fd-3270-48ac-8784-5e8d42ba7e62" />
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/7468c403-25c4-4f41-ac1a-5c77f5a8b4a5" />
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/47c4375d-3f44-4637-bdeb-903b11961004" />
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/35c1bec4-7032-4842-975d-67e9b6769889" />
+<img width="1272" height="2752" alt="image" src="https://github.com/user-attachments/assets/70126429-5894-4322-8d5c-b780b0690c90" />
+
+
 
