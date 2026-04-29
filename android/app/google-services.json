@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165128632150",
+    "firebase_url": "https://sanedesk3-tr4d9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sanedesk3-tr4d9",
+    "storage_bucket": "sanedesk3-tr4d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165128632150:android:304f161f2e537f869888f7",
+        "android_client_info": {
+          "package_name": "com.mycompany.sanedeskcreation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165128632150-3b5p5q8tfqm5i0lj9l8k4hpqc9p85dol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3X0JTnT2qK_1HwkCn387jz7lON4pDc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165128632150-3b5p5q8tfqm5i0lj9l8k4hpqc9p85dol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165128632150-mqv1dnuh89494t7uueajgv2jd5k9r24n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sanedeskcreation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

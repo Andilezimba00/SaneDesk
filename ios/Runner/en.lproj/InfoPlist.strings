@@ -1,0 +1,3 @@
+NSMicrophoneUsageDescription = "Allow microphone";
+NSPhotoLibraryUsageDescription = "I";
+PermissionGroupNotification = "allow notification from SaneDesk to be updated on your progress";
